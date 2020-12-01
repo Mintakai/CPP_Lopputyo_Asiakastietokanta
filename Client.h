@@ -8,7 +8,13 @@ class Client
 public:
 	Client();
 	Client(std::string na, std::string em, std::string te, std::string st, std::string zi, std::string to);
-	void GetCustomerName();
+	std::string GetCustomerName();
+	std::string GetCustomerEmail();
+	std::string GetCustomerPhone();
+	std::string GetCustomerStreet();
+	std::string GetCustomerZIP();
+	std::string GetCustomerTown();
+	std::string GetCustomerCreationDate();
 	void PrintClient();
 
 private:

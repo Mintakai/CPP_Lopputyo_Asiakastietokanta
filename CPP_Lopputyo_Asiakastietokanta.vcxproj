@@ -139,13 +139,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="AddClient.cpp" />
     <ClCompile Include="Client.cpp" />
     <ClCompile Include="CPP_Lopputyo_Asiakastietokanta.cpp" />
     <ClCompile Include="Menu.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="AddClient.h" />
     <ClInclude Include="Client.h" />
     <ClInclude Include="Menu.h" />
   </ItemGroup>

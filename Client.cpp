@@ -15,9 +15,9 @@ Client::Client(std::string na, std::string em, std::string te, std::string st, s
 	this->town = to;
 }
 
-void Client::GetCustomerName()
+std::string Client::GetCustomerName()
 {
-
+	return name;
 }
 
 void Client::PrintClient()
