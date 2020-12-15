@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
-VisualStudioVersion = 16.0.30413.136
+VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPP_Lopputyo_Asiakastietokanta", "CPP_Lopputyo_Asiakastietokanta.vcxproj", "{307F18D5-E21E-400E-BC81-25783933F8D8}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPP_Lopputyo_Asiakastietokanta", "CPP_Lopputyo_Asiakastietokanta\CPP_Lopputyo_Asiakastietokanta.vcxproj", "{307F18D5-E21E-400E-BC81-25783933F8D8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,6 +26,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {79188178-0618-4E80-BA70-2B685A7BC102}
+		SolutionGuid = {E16EEAC5-1355-4947-8D59-1CCE8E06963A}
 	EndGlobalSection
 EndGlobal
